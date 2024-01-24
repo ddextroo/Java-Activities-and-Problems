@@ -24,4 +24,4 @@ public class final1 {
         input.close();
     }
 }
-//code1qw
+//code1qwq
